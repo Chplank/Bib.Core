@@ -1,0 +1,12 @@
+C:\Users\cplank\source\repos\Bib.Core\bin\Debug\net8.0\Bib.Core.deps.json
+C:\Users\cplank\source\repos\Bib.Core\bin\Debug\net8.0\Bib.Core.dll
+C:\Users\cplank\source\repos\Bib.Core\bin\Debug\net8.0\Bib.Core.pdb
+C:\Users\cplank\source\repos\Bib.Core\obj\Debug\net8.0\Bib.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cplank\source\repos\Bib.Core\obj\Debug\net8.0\Bib.Core.AssemblyInfoInputs.cache
+C:\Users\cplank\source\repos\Bib.Core\obj\Debug\net8.0\Bib.Core.AssemblyInfo.cs
+C:\Users\cplank\source\repos\Bib.Core\obj\Debug\net8.0\Bib.Core.csproj.CoreCompileInputs.cache
+C:\Users\cplank\source\repos\Bib.Core\obj\Debug\net8.0\Bib.Core.dll
+C:\Users\cplank\source\repos\Bib.Core\obj\Debug\net8.0\refint\Bib.Core.dll
+C:\Users\cplank\source\repos\Bib.Core\obj\Debug\net8.0\Bib.Core.pdb
+C:\Users\cplank\source\repos\Bib.Core\obj\Debug\net8.0\ref\Bib.Core.dll
+C:\Users\cplank\source\repos\Bib.Core\obj\Debug\net8.0\Bib.Core.csproj.AssemblyReference.cache
